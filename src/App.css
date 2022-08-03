@@ -69,7 +69,8 @@ td {
 }
 
 #flex-container {
-  border: 1px solid black;
+  border: .7px solid black;
+  border-radius: 8px;
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
